@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Leetcode ... 
 - <a href="https://leetcode.com/AnuLoveCoding/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode"/></a>
 
-
  📫 How to reach me ...www.linkedin.com/in/anurag-mundra-66b177239
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
