@@ -1,4 +1,4 @@
-**- 👋 Hi, I’m @Anurag**
+## - Hey there, I’m @Anurag - <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Anurag's Dev Card"/></a>
 - 👀 I’m interested in ...Problem's solveing Hustler's.
 - 🌱 I’m currently learning ... **Back-End Developer**.
 
@@ -16,5 +16,4 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
-
-- - <a href="https://app.daily.dev/anulovecoding"><img src="https://api.daily.dev/devcards/e85d9560a45a4421a251ffea18b30aec.png?r=vdg" width="300" alt="Anurag's Dev Card"/></a>
+- <a href="https://app.daily.dev/anulovecoding"><img src="https://api.daily.dev/devcards/e85d9560a45a4421a251ffea18b30aec.png?r=vdg" width="300" alt="Anurag's Dev Card"/></a>
