@@ -1,6 +1,6 @@
 ## - Hey there, I’m @Anurag - <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Anurag's Dev Card"/></a>
 - 👀 I’m interested in ...Problem's solveing Hustler's.
-- 🌱 I’m currently learning ... **Back-End Developer**.
+- 🌱 I’m currently learning ... **Full Stack Developer**.
 
 **- 💞️ I’m looking to collaborate on Leetcode.** 
 - <a href="https://leetcode.com/AnuLoveCoding/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width= "100px" alt="LeetCode"/></a>
