@@ -1,4 +1,4 @@
-## - Hey there, I’m @Anurag - <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Anurag's Dev Card"/></a>
+## - Hey there, I’m @Anurag <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Anurag's Dev Card"/></a>
 - 👀 I’m interested in ...Problem's solveing Hustler's.
 - 🌱 I’m currently learning ... **Full Stack Developer**.
 
